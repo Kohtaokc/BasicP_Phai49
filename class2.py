@@ -143,7 +143,7 @@ pton_aroi_itim = False
 pton_rakatukk = True
 if pton_is_itim and pton_aroi_itim:
     print("จะกินพี่ต้น")
-elif:pton_rakatukk:
+elif pton_rakatukk:
     print("กินเพราะราคาถูก")
 else:
     print("ทิ้ง")
